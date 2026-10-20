@@ -15,5 +15,8 @@
 /.env.*
 /.npmrc
 *.log
+*.[mM][dD]
+[Rr][Ee][Aa][Dd][Mm][Ee]
+[Rr][Ee][Aa][Dd][Mm][Ee].*
 Thumbs.db
 Desktop.ini
